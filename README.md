@@ -49,8 +49,3 @@ A Rust-based messaging protocol exploring hybrid post-quantum cryptography and s
 - API Design
 - Privacy-focused Applications
 - AI & Automation
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/attila-takacs-bp-hu)
-- [GitHub](https://github.com/Takonium)
